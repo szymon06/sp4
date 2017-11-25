@@ -8,5 +8,5 @@ Po jego uruchomieniu wcześniej pobrany plik .apkg można wczytać wybierając p
 
 ### Pliki .apkg
 
-- [Niemiecki_kl6_1_czynnosci.apkg](https://github.com/mwoloszyn/sp4/raw/master/Niemiecki_kl6_1_czynnosci.apkg)
--	[Niemiecki_kl6_2_pogoda_ubrania.apkg](https://github.com/mwoloszyn/sp4/raw/master/Niemiecki_kl6_2_pogoda_ubrania.apkg)
+- [Niemiecki_kl6_1_czynnosci.apkg](https://github.com/szymon06/sp4/raw/master/Niemiecki_kl6_1_czynnosci.apkg)
+-	[Niemiecki_kl6_2_pogoda_ubrania.apkg](https://github.com/szymon06/sp4/raw/master/Niemiecki_kl6_2_pogoda_ubrania.apkg)
