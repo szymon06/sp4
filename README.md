@@ -4,7 +4,7 @@ Pliki do nauki słówek i zwrotów z języka niemieckiego za pomocą programu [A
 
 Program jest darmowy ("open-source") i dostępny dla systemów Windows, Mac, Linux oraz w formie aplikacji Android i iPhone.
 
-Po jego uruchomieniu wcześniej pobrany plik .apkg można wczytać wybierając przycisk **Importuj plik** (lub **Importuj...** z menu **Plik**). Powstanie wtedy *talia* kart do nauki. W jej opcjach warto zmienić **Nowe karty/dzień** na więcej niż domyślne **20**.
+Po jego uruchomieniu wcześniej pobrany plik .apkg można wczytać wybierając przycisk **Importuj plik** (lub **Importuj...** z menu **Plik**). Powstanie wtedy *talia* kart do nauki. W jej opcjach warto zmienić **Nowe karty/dzień** na więcej niż domyślne **20**. Można też wybrać **Niestandardowa nauka** i potem np. **Powtórka według stanu karty lub etykiety** z opcją **Wszystkie karty w losowej kolejności (zakuwanie)**.
 
 ### Pliki .apkg
 
