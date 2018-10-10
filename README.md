@@ -1,10 +1,12 @@
-## Język niemiecki
-
-Pliki do nauki słówek i zwrotów z języka niemieckiego za pomocą programu [Anki](https://apps.ankiweb.net).
+Pliki do nauki  za pomocą programu [Anki](https://apps.ankiweb.net).
 
 Program jest darmowy ("open-source") i dostępny dla systemów Windows, Mac, Linux oraz w formie aplikacji Android i iPhone.
 
 Po jego uruchomieniu wcześniej pobrany plik .apkg można wczytać wybierając przycisk **Importuj plik** (lub **Importuj...** z menu **Plik**). Powstanie wtedy *talia* kart do nauki. W jej opcjach warto zmienić **Nowe karty/dzień** na więcej niż domyślne **20**. Można też wybrać **Niestandardowa nauka** i potem np. **Powtórka według stanu karty lub etykiety** z opcją **Wszystkie karty w losowej kolejności (zakuwanie)**.
+
+
+## Język niemiecki
+Słówka i zwroty z języka niemieckiego.
 
 ### Pliki .apkg
 
@@ -15,3 +17,10 @@ Po jego uruchomieniu wcześniej pobrany plik .apkg można wczytać wybierając p
 
 ### Film konkurs MŚ 2018
 - [K_Bodzioch_Sz_Woloszyn.avi](https://github.com/szymon06/sp4/raw/master/K_Bodzioch_Sz_Woloszyn.avi)
+
+
+## Chemia
+
+### Pliki .apkg
+
+- [chemia_kl7_podst_pierwiastki.apkg](https://github.com/szymon06/sp4/raw/master/chemia_kl7_podst_pierwiastki.apkg)
