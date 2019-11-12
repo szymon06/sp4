@@ -14,8 +14,8 @@ Po jego uruchomieniu wcześniej pobrany plik .apkg można wczytać wybierając p
 - [Niemiecki_kl6_3_obowiazki.apkg](https://github.com/szymon06/sp4/raw/master/Niemiecki_kl6_3_obowiazki.apkg)
 - [Niemiecki_kl6_4_wakacje.apkg](https://github.com/szymon06/sp4/raw/master/Niemiecki_kl6_4_wakacje.apkg)
 
-### Film konkurs MŚ 2018
-- [K_Bodzioch_Sz_Woloszyn.avi](https://github.com/szymon06/sp4/raw/master/K_Bodzioch_Sz_Woloszyn.avi)
+[comment]: # ### Film konkurs MŚ 2018
+[comment]: # - [K_Bodzioch_Sz_Woloszyn.avi](https://github.com/szymon06/sp4/raw/master/K_Bodzioch_Sz_Woloszyn.avi)
 
 
 ## Chemia
