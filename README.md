@@ -5,7 +5,8 @@ Program jest darmowy ("open-source") i dostępny dla systemów Windows, Mac, Lin
 Po jego uruchomieniu wcześniej pobrany plik .apkg można wczytać wybierając przycisk **Importuj plik** (lub **Importuj...** z menu **Plik**). Powstanie wtedy *talia* kart do nauki. W jej opcjach warto zmienić **Nowe karty/dzień** na więcej niż domyślne **20**. Można też wybrać **Niestandardowa nauka** i potem np. **Powtórka według stanu karty lub etykiety** z opcją **Wszystkie karty w losowej kolejności (zakuwanie)**.
 
 ## Język angielski - klasa 8
-- [ang-slowniczek-rozdz-1.apkg](https://github.com/szymon06/sp4/raw/master/ang-s%C5%82owniczek-rozdz-1.apkg)
+- [ang_szk_kl8_1.apkg](https://github.com/szymon06/sp4/raw/master/ang_szk_kl8_1.apkg) 2019-09-14
+- [ang_szk_kl8_3.apkg](https://github.com/szymon06/sp4/raw/master/ang_szk_kl8_3.apkg) 2019-11-12
 
 ## Język niemiecki
 - [Niemiecki_kl6_1_czynnosci.apkg](https://github.com/szymon06/sp4/raw/master/Niemiecki_kl6_1_czynnosci.apkg)
